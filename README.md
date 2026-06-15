@@ -16,7 +16,7 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 | Columns | 14 |
 | Period | 2023 – 2025 |
 
-** Columns include: ** `OrderID`, `Date`, `CustomerID`, `Product`, `Quantity`, `UnitPrice`, `TotalPrice`, `PaymentMethod`, `OrderStatus`, `ReferralSource`, `CouponCode`, `ItemsInCart`, `ShippingAddress`, `TrackingNumber`
+**Columns include:** `OrderID`, `Date`, `CustomerID`, `Product`, `Quantity`, `UnitPrice`, `TotalPrice`, `PaymentMethod`, `OrderStatus`, `ReferralSource`, `CouponCode`, `ItemsInCart`, `ShippingAddress`, `TrackingNumber`
 
 ---
 
@@ -26,7 +26,7 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 2. Which payment method is most commonly used?
 3. Which referral source drives the most orders and revenue?
 4. What is the breakdown of order statuses?
-5. How does quantity sold correlate with revenue across products?
+
 
 ---
 
@@ -49,12 +49,10 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 - Word-of-mouth Referral had the lowest performance — opportunity for a referral incentive programme
 
 **Order Status**
-- Less than 20% of orders were Delivered**
+- Less than 20% of orders were Delivered
 - Over **41% were Cancelled or Returned** — a significant fulfilment issue worth investigating
 - Cancellations alone put $276,396 in revenue at risk
 
-**Quantity vs Revenue**
-- Strong positive correlation confirmed across all 7 product categories
 
 
 ---
@@ -77,6 +75,13 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 **Which referral source drives the highest revenue?**
 
 <img width="1919" height="1005" alt="1000770240" src="https://github.com/user-attachments/assets/6eeb20ee-8d53-495b-bbeb-d59d3f6642e0" />
+
+
+
+**What is the breakdown of order statuses?**
+
+<img width="959" height="539" alt="1000770340" src="https://github.com/user-attachments/assets/9821176d-a49e-4a56-a174-67e66a2e878f" />
+
 
 
 **Using Where clause**
