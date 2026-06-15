@@ -1,5 +1,4 @@
-### DecodeLabs Data Analytics Internship — Project 3
-
+# DecodeLabs Data Analytics Internship — Project 3
 
 
 ## Project Overview 
@@ -17,7 +16,7 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 | Columns | 14 |
 | Period | 2023 – 2025 |
 
-**Columns include:** `OrderID`, `Date`, `CustomerID`, `Product`, `Quantity`, `UnitPrice`, `TotalPrice`, `PaymentMethod`, `OrderStatus`, `ReferralSource`, `CouponCode`, `ItemsInCart`, `ShippingAddress`, `TrackingNumber`
+** Columns include: ** `OrderID`, `Date`, `CustomerID`, `Product`, `Quantity`, `UnitPrice`, `TotalPrice`, `PaymentMethod`, `OrderStatus`, `ReferralSource`, `CouponCode`, `ItemsInCart`, `ShippingAddress`, `TrackingNumber`
 
 ---
 
@@ -31,54 +30,56 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
-** Product Revenue **
+**Product Revenue**
+
+
 - Chairs and Printers contributed the highest total revenue, with Printer also showing strong customer demand
-- Laptop had the highest average order value at **$1,110.56**
+- Laptop had the highest average order value at **1,110.56**
 - Phone generated the least revenue and may benefit from promotions
 
-** Payment Methods **
+**Payment Methods**
 - Online was the most frequently used method
 - Credit Card produced the **highest total revenue** despite ranking third in usage — volume ≠ value
 
-** Referral Sources **
+**Referral Sources**
 - Instagram led in both order count (259) and total revenue
 - Facebook customers spent the **most per order** on average
 - Word-of-mouth Referral had the lowest performance — opportunity for a referral incentive programme
 
-** Order Status **
+**Order Status**
 - Less than 20% of orders were Delivered**
 - Over **41% were Cancelled or Returned** — a significant fulfilment issue worth investigating
 - Cancellations alone put $276,396 in revenue at risk
 
-**📈 Quantity vs Revenue **
+**Quantity vs Revenue**
 - Strong positive correlation confirmed across all 7 product categories
 - Supports bundle and bulk-discount strategies
 
 ---
 
-** Creating Table **
+**Creating Table**
 
 <img width="1563" height="871" alt="1000770239" src="https://github.com/user-attachments/assets/dfed3991-f190-40af-a945-b995ffa53140" />
 
 
-** Which product generates the most revenue? **
+**Which product generates the most revenue?**
 
 
 <img width="930" height="475" alt="1000770238" src="https://github.com/user-attachments/assets/d00ff630-63ce-40fc-b9d3-31565daad504" />
 
-** Which payment method is used the most? **
+**Which payment method is used the most?**
 
 <img width="959" height="500" alt="1000770237" src="https://github.com/user-attachments/assets/0efec8cd-d6bf-490d-8ebd-38171e555ac2" />
 
 
-** Which referral source drives the highest revenue? **
+**Which referral source drives the highest revenue?**
 
 <img width="1919" height="1005" alt="1000770240" src="https://github.com/user-attachments/assets/6eeb20ee-8d53-495b-bbeb-d59d3f6642e0" />
 
 
-** Using Where clause **
+**Using Where clause**
 
 <img width="945" height="481" alt="1000770241" src="https://github.com/user-attachments/assets/03579670-96f9-4ebc-b214-a1779e02c92b" />
 
