@@ -51,7 +51,6 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 **Order Status**
 - Less than 20% of orders were Delivered
 - Over **41% were Cancelled or Returned** — a significant fulfilment issue worth investigating
-- Cancellations alone put $276,396 in revenue at risk
 
 
 
