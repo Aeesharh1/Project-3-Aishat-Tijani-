@@ -115,7 +115,7 @@ ORDER BY total_revenue DESC;
 | File | Description |
 |---|---|
 | [Dataset_for_Data_Analytics.csv](https://docs.google.com/spreadsheets/d/1WUwm2Ts0z1XnCOLD6stS94A1rqvWVCbD/edit?gid=1161090625#gid=1161090625) | Raw e-commerce dataset |
-| [queries.sql](queries.sql) | All 5 SQL queries used in the analysis |
+| [queries.sql](queries.sql) | All SQL queries used in the analysis |
 | [README.md](README.md) | This file |
 
 ---
