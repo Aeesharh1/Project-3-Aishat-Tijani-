@@ -55,7 +55,7 @@ This project was part of my Data Analytics internship at DecodeLabs. I was given
 
 **Quantity vs Revenue**
 - Strong positive correlation confirmed across all 7 product categories
-- Supports bundle and bulk-discount strategies
+
 
 ---
 
